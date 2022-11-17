@@ -1,0 +1,3 @@
+iname,itype,idice,imaterial,ivalue,iskill
+handaxe,Weapon,1d8,Iron,100,axestat
+sword,Weapon,1d8,Iron,100,axestat

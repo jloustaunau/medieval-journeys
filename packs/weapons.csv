@@ -1,0 +1,124 @@
+iname,itype,idice,imaterial,ivalue,iskill,inote
+Stick,Weapon,1d10,Iron,1,axesskill,
+Spiked Club,Weapon,1d10+1d6,Iron,1,axesskill,
+Great Hammer,Weapon,2d12,Iron,1,axesskill,2 Handed
+Hercules Club,Weapon,2d10,Iron,1,axesskill,2 Handed
+Club,Weapon,1d12,Iron,1,axesskill,
+Mace,Weapon,1d10,Iron,1,axesskill,½ Armor
+Club,Weapon,1d20,Iron,1,axesskill,2 Handed
+Cudgel,Weapon,1d6+1,Iron,1,axesskill,
+War Club,Weapon,1d10,Iron,1,axesskill,
+War Hammer,Weapon,1d8+1,Iron,1,axesskill,½ Armor
+Horseman's Hammer,Weapon,1d10+1,Iron,1,axesskill,½ Armor
+Tonfa,Weapon,1d6+1,Iron,1,axesskill,Block like shield.
+Cane,Weapon,1d8,Iron,1,axesskill,
+Sledgehammer,Weapon,2d8,Iron,1,axesskill,2 Handed
+Blom Hammer,Weapon,2d20,Iron,1,axesskill,"2 Handed, giant"
+Blackjack,Weapon,1d6,Iron,1,axesskill,Nonlethal Backstab
+Log,Weapon,1d10,Iron,1,axesskill,2 Handed
+Hand Axe,Weapon,2d4,Iron,1,axesskill,
+Stone Axe,Weapon,1d10,Iron,1,axesskill,
+Battle Axe,Weapon,2d8,Iron,1,axesskill,2 Handed
+Two-Headed Battle Axe,Weapon,2d10,Iron,1,axesskill,2 Handed
+Great Axe,Weapon,2d12,Iron,1,axesskill,2 Handed
+Maul,Weapon,1d20,Iron,1,axesskill,2 Handed
+War Maul,Weapon,2d12,Iron,1,axesskill,2 Handed
+Troll Maul,Weapon,2d20,Iron,1,axesskill,2 Handed
+Quad-Axe,Weapon,2d10,Iron,1,axesskill,Double attack at ½ skill
+Executioner's Axe,Weapon,2d20,Iron,1,axesskill,"2 Handed, -20 skill"
+Hatchet,Weapon,1d8,Iron,1,axesskill,
+Orcish Cleaver,Weapon,3d12,Iron,1,axesskill,2 Handed
+Short Bow,Weapon,1d8,Iron,1,axesskill,150 Range
+Self Bow,Weapon,1d10,Iron,1,axesskill,175 Range
+Long Bow,Weapon,1d12,Iron,1,axesskill,200 Range
+Elf Bow,Weapon,1d20,Iron,1,axesskill,250 Range
+Bamboo Samurai Bow,Weapon,,Iron,1,axesskill,
+Crossbow Pistol,Weapon,1d8,Iron,1,axesskill,"50 Range, 1 round Reload"
+Light Crossbow,Weapon,1d12,Iron,1,axesskill,"300 Range, 1 round Reload"
+Medium Crossbow,Weapon,2d8,Iron,1,axesskill,"350 Range, 1 round Reload"
+Heavy Crossbow,Weapon,1d20,Iron,1,axesskill,"350 Range, 1 round Reload"
+Ratguard Crossbow,Weapon,2d10,Iron,1,axesskill,"425 Range, 1 round Reload"
+Blowgun,Weapon,1d2,Iron,1,axesskill,30 Range
+Sling,Weapon,1d6,Iron,1,axesskill,50 Range
+Slingshot,Weapon,1d4,Iron,1,axesskill,50 Range
+Dart,Weapon,1d4,Iron,1,axesskill,STR Range
+Discus,Weapon,1d8,Iron,1,axesskill,STR Range
+Javelin,Weapon,1d8,Iron,1,axesskill,STR Range
+Throwing Axe,Weapon,2d4,Iron,1,axesskill,STR Range
+Throwing Iron,Weapon,1d8,Iron,1,axesskill,STR Range
+Throwing Club,Weapon,2d4,Iron,1,axesskill,STR Range
+Black Powder Bomb,Weapon,1d12,Iron,1,axesskill,"STR Range, 10 Radius, 1 round fuse."
+Bola,Weapon,1d6,Iron,1,axesskill,"STR Range, Engangle on missed MOV roll"
+Chakaram,Weapon,1d8,Iron,1,axesskill,STR Range
+Shuriken,Weapon,1d4,Iron,1,axesskill,STR Range
+Boomerang,Weapon,1d4+1,Iron,1,axesskill,"STR Range, 50% return on a miss"
+Throwing Knife,Weapon,1d6,Iron,1,axesskill,STR Range
+Dagger,Weapon,1d6,Iron,1,axesskill,
+Boot Knife,Weapon,1d4,Iron,1,axesskill,
+Tiger Claws,Weapon,1d4+1,Iron,1,axesskill,
+Climbing Studs,Weapon,1d4,Iron,1,axesskill,+20 to Climbing Skill
+Climbing Claws,Weapon,1d4,Iron,1,axesskill,+20 to Climbing Skill
+Claw Gloves,Weapon,1d4,Iron,1,axesskill,
+Meat Cleaver,Weapon,1d8,Iron,1,axesskill,
+Sai,Weapon,1d6,Iron,1,axesskill,+20 to Parry
+Stiletto,Weapon,1d4+1,Iron,1,axesskill,+10 when Backstabbing
+Hunting Knife,Weapon,1d8+1,Iron,1,axesskill,
+Quarterstaff,Weapon,2d4,Iron,1,axesskill,
+Iron Staff,Weapon,2d8,Iron,1,axesskill,
+Short Staff,Weapon,1d8,Iron,1,axesskill,
+Bo Staff,Weapon,1d10,Iron,1,axesskill,
+Long Staff,Weapon,1d12,Iron,1,axesskill,
+Knobby Wooden Staff,Weapon,2d6,Iron,1,axesskill,
+Pole-Axe,Weapon,2d8,Iron,1,axesskill,
+Pike,Weapon,1d12,Iron,1,axesskill,
+Scythe,Weapon,2d10,Iron,1,axesskill,-10 to hit with
+Halberd,Weapon,2d10,Iron,1,axesskill,
+Lucerne Hammer,Weapon,2d8,Iron,1,axesskill,
+Glaive,Weapon,2d12,Iron,1,axesskill,
+Awl Pike,Weapon,1d12,Iron,1,axesskill,½ Armor
+Runka,Weapon,2d10,Iron,1,axesskill,
+Man-Catcher,Weapon,1d10,Iron,1,axesskill,
+Sabre Halberd,Weapon,2d12,Iron,1,axesskill,
+Trident,Weapon,3d6,Iron,1,axesskill,
+Military Fork,Weapon,2d6,Iron,1,axesskill,
+Lance,Weapon,1d20,Iron,1,axesskill,
+Short Spear,Weapon,1d8,Iron,1,axesskill,
+Long Spear,Weapon,1d12,Iron,1,axesskill,
+Guisarme,Weapon,3d8,Iron,1,axesskill,
+Boar Spear,Weapon,1d10,Iron,1,axesskill,
+Bardiche,Weapon,4d6,Iron,1,axesskill,
+Sodegarami,Weapon,2d6,Iron,1,axesskill,
+Katana,Weapon,2d8,Iron,1,axesskill,
+Two-Handed Sword,Weapon,2d10,Iron,1,axesskill,2 Handed
+Scissor Katar,Weapon,1d8,Iron,1,axesskill,+20 to Parry
+Short Sword,Weapon,1d8,Iron,1,axesskill,
+Scimitar,Weapon,1d8+1,Iron,1,axesskill,
+Sultani,Weapon,2d8,Iron,1,axesskill,2 Handed
+Sabre,Weapon,1d8+1,Iron,1,axesskill,
+Broadsword,Weapon,1d10,Iron,1,axesskill,
+Katar,Weapon,1d8,Iron,1,axesskill,
+Scadda,Weapon,1d10+1,Iron,1,axesskill,
+Rapier,Weapon,1d8,Iron,1,axesskill,+20 to Parry
+Longsword,Weapon,1d12,Iron,1,axesskill,
+Falchion,Weapon,1d8+1,Iron,1,axesskill,
+Two-Bladed Katar,Weapon,1d8,Iron,1,axesskill,+20 to Parry
+Cutlass,Weapon,1d10,Iron,1,axesskill,
+Wakazashi,Weapon,2d6,Iron,1,axesskill,
+Bastard Sword,Weapon,2d10,Iron,1,axesskill,
+Greatsword,Weapon,2d12,Iron,1,axesskill,2 Handed
+Claymore,Weapon,2d12,Iron,1,axesskill,2 Handed
+Flamberge,Weapon,1d20+2,Iron,1,axesskill,2 Handed
+Ball And Chain,Weapon,3d10,Iron,1,axesskill,"2 Handed, -20 to parry"
+Flail,Weapon,2d10,Iron,1,axesskill,"2 Handed, -20 to parry"
+Triple Flail,Weapon,3d8,Iron,1,axesskill,"2 Handed, -20 to parry"
+Spiked Ball And Chain,Weapon,2d10+2d6,Iron,1,axesskill,"2 Handed, -20 to parry"
+Chain Axe,Weapon,3d8,Iron,1,axesskill,"2 Handed, -20 to parry"
+Morningstar,Weapon,2d12,Iron,1,axesskill,"2 Handed, -20 to parry"
+Nunchuku,Weapon,1d6,Iron,1,axesskill,"2 Handed, -20 to parry"
+Battle Pick,Weapon,1d12,Iron,1,axesskill,
+Sickle,Weapon,2d4+1,Iron,1,axesskill,
+Hand Pick,Weapon,1d8,Iron,1,axesskill,½ Armor
+Mattock,Weapon,2d8,Iron,1,axesskill,½ Armor
+Bullwhip,Weapon,1d8,Iron,1,axesskill,"-20 to parry, cannot damage if armored"
+Cat-O-Nine-Tails,Weapon,3d6,Iron,1,axesskill,"-20 to parry, cannot damage if armored"
+Kawanga (Grappling Hook),Weapon,1d6,Iron,1,axesskill,"-20 to parry, +20 to climbing"

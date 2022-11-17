@@ -1,0 +1,50 @@
+{
+  "title": "Medieval Journeys",
+  "id": "medieval-journeys",
+  "system": "custom-system-builder",
+  "description": "<p></p>",
+  "coreVersion": "10.290",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.290"
+  },
+  "systemVersion": "2.1.0",
+  "packs": [
+    {
+      "label": "Equipment",
+      "type": "Item",
+      "name": "equipment",
+      "path": "packs/equipment.db",
+      "system": "custom-system-builder",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Weapon",
+      "type": "Item",
+      "name": "weapon",
+      "path": "packs/weapon.db",
+      "system": "custom-system-builder",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Test",
+      "type": "Item",
+      "name": "test",
+      "path": "packs/test.db",
+      "system": "custom-system-builder",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Test1",
+      "type": "Item",
+      "name": "test1",
+      "path": "packs/test1.db",
+      "system": "custom-system-builder",
+      "private": false,
+      "flags": {}
+    }
+  ]
+}
