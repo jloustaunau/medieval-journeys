@@ -3,10 +3,10 @@
   "id": "medieval-journeys",
   "system": "custom-system-builder",
   "description": "<p></p>",
-  "coreVersion": "10.290",
+  "coreVersion": "10.291",
   "compatibility": {
     "minimum": "10",
-    "verified": "10.290"
+    "verified": "10.291"
   },
   "systemVersion": "2.1.0",
   "packs": [
