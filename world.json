@@ -11,40 +11,14 @@
   "systemVersion": "2.1.0",
   "packs": [
     {
-      "label": "Equipment",
+      "label": "Weapons",
       "type": "Item",
-      "name": "equipment",
-      "path": "packs/equipment.db",
+      "name": "weapons",
+      "path": "packs/weapons.db",
       "system": "custom-system-builder",
       "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Weapon",
-      "type": "Item",
-      "name": "weapon",
-      "path": "packs/weapon.db",
-      "system": "custom-system-builder",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Test",
-      "type": "Item",
-      "name": "test",
-      "path": "packs/test.db",
-      "system": "custom-system-builder",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Test1",
-      "type": "Item",
-      "name": "test1",
-      "path": "packs/test1.db",
-      "system": "custom-system-builder",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "package": "world"
     }
   ]
 }

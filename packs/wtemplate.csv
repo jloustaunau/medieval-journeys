@@ -1,0 +1,177 @@
+iname,itype,idice,imaterial,ivalue,iskill,inote
+Blowgun,Weapon,1d2,Iron,0.1,ACC,30 Range
+Battle Axe,Weapon,2d10,Iron,18,axesstat,2 Handed
+Bearded Axe,Weapon,2d8,Iron,7,axesstat,
+Executioner's Axe,Weapon,2d20,Iron,50,axesstat,"2 Handed, -20 skill"
+Great Axe,Weapon,2d12,Iron,70,axesstat,2 Handed
+Hand Axe,Weapon,2d4,Iron,0.8,axesstat,
+Hatchet,Weapon,1d6,Iron,0.2,axesstat,
+Maul,Weapon,1d20,Iron,2,axesstat,2 Handed
+Orcish Cleaver,Weapon,3d12,Iron,30,axesstat,2 Handed
+Quad-Axe,Weapon,2d10,Iron,200,axesstat,Double attack at ½ skill
+Stone Axe,Weapon,1d10,Iron,0.6,axesstat,
+Tomahawk,Weapon,1d8,Iron,0.3,axesstat,Throwable at no penalty
+Troll Maul,Weapon,2d20,Iron,85,axesstat,2 Handed
+Two-Headed Battle Axe,Weapon,2d10+1,Iron,28,axesstat,2 Handed
+War Maul,Weapon,2d12,Iron,65,axesstat,2 Handed
+Bar Mace,Weapon,2d6+1,Iron,15,bluntstat,
+Blackjack,Weapon,1d6,Iron,0.1,bluntstat,Nonlethal Backstab
+Bone Club,Weapon,1d12,Iron,0.01,bluntstat,
+Cane,Weapon,1d6,Iron,2,bluntstat,
+Cudgel,Weapon,1d6+1,Iron,0.1,bluntstat,
+Flanged Mace,Weapon,1d10,Iron,18,bluntstat,½ Armor
+Macuahuitl,Weapon,1d8+1d8,Iron,2,bluntstat,
+Mallet,Weapon,2d4,Iron,0.8,bluntstat,
+Morningstar,Weapon,2d12,Iron,40,bluntstat,
+Shillelagh,Weapon,1d8,Iron,1,bluntstat,
+Spiked Club,Weapon,1d10+1d6,Iron,0.5,bluntstat,
+Steel Club,Weapon,2d8,Iron,12,bluntstat,
+Stick,Weapon,1d4,Iron,0.01,bluntstat,
+Tonfa,Weapon,1d6+1,Iron,0.6,bluntstat,Block like shield 1d8p
+War Club,Weapon,1d10,Iron,1,bluntstat,
+War Hammer,Weapon,1d8+1,Iron,17,bluntstat,½ Armor
+Wooden Club ,Weapon,1d10,Iron,0.03,bluntstat,
+Elf Bow,Weapon,1d20,Iron,50,bowstat,250 Range
+Long Bow,Weapon,1d12,Iron,25,bowstat,200 Range
+Recurve Bow,Weapon,1d10,Iron,15,bowstat,125 Range
+Self Bow,Weapon,1d8,Iron,10,bowstat,100 Range
+Yumi Bow,Weapon,1d10,Iron,30,bowstat,175 Range
+Bagh Nakh,Weapon,1d6,Iron,6,brawlingstat,
+Cestus,Weapon,1d4,Iron,0.2,brawlingstat,
+Claw Gloves,Weapon,1d6+1,Iron,10,brawlingstat,1d8p
+Knuckledusters,Weapon,1d6,Iron,0.5,brawlingstat,
+Neko-Te,Weapon,1d4+1,Iron,5,brawlingstat,1d6p
+Sap Gloves,Weapon,1d4,Iron,0.9,brawlingstat,1d6p
+Shuko,Weapon,1d4,Iron,2,brawlingstat,+20 to Climbing skill
+Tiger Claws,Weapon,1d4+1,Iron,3,brawlingstat,
+Arbalest,Weapon,2d12,Iron,75,crossbowstat,"400 Range, 1 round Reload"
+Crossbow Pistol,Weapon,1d8,Iron,150,crossbowstat,"50 Range, 1 round Reload"
+Heavy Crossbow,Weapon,1d20,Iron,40,crossbowstat,"350 Range, 1 round Reload"
+Light Crossbow,Weapon,1d12,Iron,30,crossbowstat,"300 Range, 1 round Reload"
+Ratguard Crossbow,Weapon,2d10,Iron,125,crossbowstat,425 Range
+Stonebow,Weapon,1d10,Iron,50,crossbowstat,"150 Range, 1 round Reload"
+Caltrops,Weapon,1d4,Iron,0.01,DEX,
+War Fan,Weapon,1d4_1,Iron,10,DEX,Block like shield 1d8p
+Ball And Chain,Weapon,3d10,Iron,15,flailstat,"2 Handed, -20 to parry"
+Chain Axe,Weapon,4d6,Iron,85,flailstat,"2 Handed, -20 to parry"
+Dire Flail,Weapon,3d6,Iron,225,flailstat,"2 Handed, -20 to parry, Double attack at 1/2 skill"
+Flail,Weapon,2d10,Iron,10,flailstat,"2 Handed, -20 to parry"
+Kusarigama ,Weapon,2d6,Iron,15,flailstat,
+Kyoyetsu Shoge,Weapon,1d8+1,Iron,8,flailstat,
+Manriki-Gusari ,Weapon,1d8,Iron,3,flailstat,"2 Handed, -20 to parry"
+Nunchuku,Weapon,1d6,Iron,2,flailstat,-10 to parry
+Spiked Ball And Chain,Weapon,2d10+2d6,Iron,30,flailstat,"2 Handed, -20 to parry"
+Triple Flail,Weapon,3d8,Iron,66,flailstat,"2 Handed, -10 to parry"
+Adz,Weapon,1d6,Iron,0.05,pickstat,
+Battle Pick,Weapon,1d12,Iron,20,pickstat,½ Armor
+Hand Pick,Weapon,1d8,Iron,2,pickstat,
+Kama,Weapon,2d4+1,Iron,4,pickstat,
+Mattock,Weapon,1d10,Iron,1,pickstat,
+Nadziak,Weapon,1d10+1,Iron,15,pickstat,½ Armor
+Pickaxe,Weapon,2d8,Iron,3,pickstat,
+Awl Pike,Weapon,1d12,Iron,35,polearmstat,½ Armor
+Bardiche,Weapon,4d6,Iron,95,polearmstat,
+Glaive,Weapon,2d12,Iron,80,polearmstat,
+Guisarme,Weapon,3d8,Iron,90,polearmstat,
+Halberd,Weapon,2d10,Iron,60,polearmstat,
+Lajatang,Weapon,1d12,Iron,45,polearmstat,Double attack at ½ skill
+Lucerne Hammer,Weapon,2d8,Iron,55,polearmstat,
+Mancatcher,Weapon,1d10,Iron,30,polearmstat,Entangle on failed MOV
+Naginata,Weapon,2d12,Iron,100,polearmstat,
+Pike,Weapon,1d12,Iron,25,polearmstat,
+Pole-Axe,Weapon,2d8,Iron,30,polearmstat,
+Ranseur,Weapon,2d10,Iron,45,polearmstat,
+Sabre Halberd,Weapon,2d12,Iron,70,polearmstat,
+Scythe,Weapon,2d10,Iron,5,polearmstat,-10 to hit with
+Sodegarami,Weapon,2d6+2d4,Iron,60,polearmstat,Entangle on failed MOV
+Spetum,Weapon,2d10,Iron,40,polearmstat,
+Sling,Weapon,1d6,Iron,0.05,slingstat,50 Range
+Slingshot,Weapon,1d4,Iron,0.07,slingstat,50 Range
+Staff Sling,Weapon,1d8+1,Iron,0.5,slingstat,75 Range
+Boot Knife,Weapon,1d4,Iron,1,smallbstat,
+Cleaver,Weapon,1d8,Iron,0.3,smallbstat,
+Dagger,Weapon,1d6,Iron,1,smallbstat,
+Dirk,Weapon,1d4+1,Iron,1,smallbstat,
+Hunting Knife,Weapon,1d8+1,Iron,7,smallbstat,
+Jitte,Weapon,1d6,Iron,4,smallbstat,+20 to Parry with
+Karambit,Weapon,1d6+1,Iron,2,smallbstat,
+Misericorde ,Weapon,1d4+1,Iron,10,smallbstat,½ Armor
+Rondel Dagger,Weapon,1d6+1,Iron,2,smallbstat,
+Sai,Weapon,1d6,Iron,5,smallbstat,+20 to Parry with
+Sickle,Weapon,1d6+1,Iron,0.5,smallbstat,
+Stiletto,Weapon,1d4+1,Iron,4,smallbstat,+10 when Backstabbing
+Tanto,Weapon,1d6+1,Iron,15,smallbstat,
+Tekko-Kage,Weapon,1d6,Iron,4,smallbstat,+20 to Climbing skill
+Boar Spear,Weapon,1d10+1,Iron,15,spearstat,
+Lance,Weapon,1d20,Iron,25,spearstat,
+Long Spear,Weapon,1d12,Iron,10,spearstat,
+Military Fork,Weapon,2d6,Iron,20,spearstat,
+Sang Kauw,Weapon,1d10,Iron,30,spearstat,+20 to Parry with
+Short Spear,Weapon,1d8,Iron,5,spearstat,
+Trident,Weapon,3d6,Iron,30,spearstat,
+Battle Staff,Weapon,1d12,Iron,5,staffstat,
+Bo,Weapon,1d10,Iron,3,staffstat,
+Hanbo,Weapon,1d8,Iron,1,staffstat,
+Iron Staff,Weapon,2d8,Iron,15,staffstat,
+Knobby Wooden Staff,Weapon,2d6,Iron,4,staffstat,
+Quarterstaff,Weapon,2d4,Iron,2,staffstat,
+Shakujo,Weapon,2d6,Iron,75,staffstat,
+Sword Staff,Weapon,1d8,Iron,25,staffstat,
+Bastard Sword,Weapon,2d10,Iron,35,swordstat,1 or 2 Handed
+Broadsword,Weapon,1d10,Iron,10,swordstat,
+Cinqueda,Weapon,1d8+1,Iron,5,swordstat,
+Cutlass,Weapon,1d10,Iron,14,swordstat,
+Falchion,Weapon,1d8+1,Iron,6,swordstat,
+Foil,Weapon,1d4+1,Iron,10,swordstat,+20 to Parry
+Gladius,Weapon,1d6+2,Iron,10,swordstat,
+Katana,Weapon,2d8,Iron,50,swordstat,
+Katar,Weapon,1d6+2,Iron,6,swordstat,
+Khopesh,Weapon,1d12+1,Iron,20,swordstat,
+Kukuri,Weapon,1d6+2,Iron,0.2,swordstat,
+Longsword,Weapon,1d12,Iron,20,swordstat,
+Machete,Weapon,1d6+2,Iron,0.5,swordstat,
+Rapier,Weapon,1d8,Iron,25,swordstat,+20 to Parry with
+Sabre,Weapon,1d8+1,Iron,9,swordstat,
+Scadda,Weapon,1d10+1,Iron,14,swordstat,
+Scimitar,Weapon,1d8+1,Iron,7,swordstat,
+Scissor Katar,Weapon,1d6+2,Iron,25,swordstat,+20 to Parry
+Shamshir,Weapon,1d10+1,Iron,14,swordstat,
+Short Sword,Weapon,1d8,Iron,5,swordstat,
+Two-Bladed Katar,Weapon,1d6+2,Iron,15,swordstat,+20 to Parry with
+Wakazashi,Weapon,2d6,Iron,35,swordstat,
+Blom Hammer,Weapon,2d20,Iron,100,thbstat,"2 Handed, giant"
+Great Club,Weapon,2d10,Iron,35,thbstat,2 Handed
+Great Hammer,Weapon,2d12,Iron,40,thbstat,2 Handed
+Kanabo,Weapon,2d8+1,Iron,30,thbstat,2 Handed
+Log,Weapon,1d10,Iron,0.01,thbstat,2 Handed
+Otsuchi,Weapon,2d8,Iron,3,thbstat,
+Sledgehammer,Weapon,2d8,Iron,0.6,thbstat,2 Handed
+Stone Club,Weapon,1d20,Iron,0.2,thbstat,2 Handed
+War Mallet,Weapon,2d10,Iron,1.5,thbstat,
+Black Powder Bomb,Weapon,1d12,Iron,20,thrownstat,"STR Range, 10 Radius, 1 round fuse."
+Bola,Weapon,1d6,Iron,0.2,thrownstat,"STR Range, Engangle on missed MOV roll"
+Boomerang,Weapon,1d4+1,Iron,0.1,thrownstat,"STR Range, 1/2 skill return on a miss"
+Chakram,Weapon,1d6,Iron,2,thrownstat,STR Range
+Dart,Weapon,1d4,Iron,0.02,thrownstat,STR Range
+Discus,Weapon,1d8,Iron,0.05,thrownstat,STR Range
+Harpoon,Weapon,1d8,Iron,3,thrownstat,STR Range
+Javelin,Weapon,1d6+1,Iron,1,thrownstat,STR Range
+Kpinga,Weapon,1d8,Iron,1.5,thrownstat,STR Range
+Kunai,Weapon,1d6,Iron,0.7,thrownstat,STR Range
+Plumbata,Weapon,1d6,Iron,0.03,thrownstat,STR Range
+Shuriken,Weapon,1d4,Iron,0.5,thrownstat,STR Range
+Throwing Axe,Weapon,2d4,Iron,0.7,thrownstat,STR Range
+Throwing Club,Weapon,2d4,Iron,0.4,thrownstat,STR Range
+Throwing Knife,Weapon,1d6,Iron,0.6,thrownstat,STR Range
+Throwing Spear,Weapon,1d8,Iron,2,thrownstat,STR Range
+Claymore,Weapon,2d12,Iron,50,thsstat,2 Handed
+Flamberge,Weapon,1d20+2,Iron,65,thsstat,2 Handed
+Greatsword,Weapon,2d12,Iron,45,thsstat,2 Handed
+Nodachi,Weapon,2d10,Iron,100,thsstat,2 Handed
+Odachi,Weapon,2d12,Iron,150,thsstat,2 Handed
+Sultani,Weapon,2d8,Iron,21,thsstat,2 Handed
+Bullwhip,Weapon,1d8,Iron,8,whipstat,"-20 to parry, cannot damage if armored"
+Cat-O-Nine-Tails,Weapon,3d4,Iron,9,whipstat,"-20 to parry, cannot damage if armored"
+Grappling Hook,Weapon,1d6,Iron,0.1,whipstat,"-20 to parry, +20 to climbing"
+Kawanga,Weapon,1d6,Iron,4,whipstat,"-20 to parry, +20 to climbing"
+Scourge,Weapon,3d4,Iron,13,whipstat,"-20 to parry, cannot damage if armored"
