@@ -1,0 +1,366 @@
+{
+  "name": "{{iname}}",
+  "type": "equippableItem",
+  "img": "icons/magic/fire/flame-burning-earth-yellow.webp",
+  "system": {
+    "hidden": [
+      {
+        "name": "sstat",
+        "value": "${concat((itype),'stat')}$"
+      },
+      {
+        "name": "slevel",
+        "value": "${concat((itype),'level')}$"
+      },
+      {
+        "name": "ialldice",
+        "value": "${concat((idice),'+',(slevel))}$"
+      }
+    ],
+    "header": {
+      "contents": [
+        {
+          "key": "itype",
+          "cssClass": "",
+          "role": "0",
+          "permission": "0",
+          "tooltip": "",
+          "label": "Type",
+          "defaultValue": "",
+          "size": "full-size",
+          "options": [
+            {
+              "key": "abjuration",
+              "value": "Abjuration"
+            },
+            {
+              "key": "divination",
+              "value": "Divination"
+            },
+            {
+              "key": "elementalism",
+              "value": "Elementalism"
+            },
+            {
+              "key": "enchantment",
+              "value": "Enchantment"
+            },
+            {
+              "key": "illusion",
+              "value": "Illusion"
+            },
+            {
+              "key": "necromancy",
+              "value": "Necromancy"
+            },
+            {
+              "key": "sorcery",
+              "value": "Sorcery"
+            }
+          ],
+          "tableKey": null,
+          "tableKeyColumn": null,
+          "tableLabelColumn": null,
+          "type": "select"
+        },
+        {
+          "key": "",
+          "cssClass": "",
+          "role": "0",
+          "permission": "0",
+          "tooltip": "",
+          "contents": [
+            [
+              {
+                "key": "dlabel",
+                "cssClass": "",
+                "role": "0",
+                "permission": "0",
+                "tooltip": "",
+                "label": null,
+                "defaultValue": null,
+                "size": "full-size",
+                "icon": "",
+                "value": "Dice",
+                "prefix": "",
+                "suffix": "",
+                "rollMessage": "",
+                "altRollMessage": "",
+                "style": "bold",
+                "type": "label"
+              },
+              {
+                "key": "lroll",
+                "cssClass": "",
+                "role": "0",
+                "permission": "0",
+                "tooltip": "",
+                "label": null,
+                "defaultValue": null,
+                "size": "full-size",
+                "icon": "",
+                "value": "Roll",
+                "prefix": "",
+                "suffix": "",
+                "rollMessage": "",
+                "altRollMessage": "",
+                "style": "label",
+                "type": "label"
+              },
+              {
+                "key": "laschool",
+                "cssClass": "",
+                "role": "0",
+                "permission": "0",
+                "tooltip": "",
+                "label": null,
+                "defaultValue": null,
+                "size": "full-size",
+                "icon": "",
+                "value": "Level",
+                "prefix": "",
+                "suffix": "",
+                "rollMessage": "",
+                "altRollMessage": "",
+                "style": "label",
+                "type": "label"
+              },
+              {
+                "key": "",
+                "cssClass": "",
+                "role": "0",
+                "permission": "0",
+                "tooltip": "",
+                "label": null,
+                "defaultValue": null,
+                "size": "full-size",
+                "icon": "",
+                "value": "",
+                "prefix": "",
+                "suffix": "Die Per Level",
+                "rollMessage": "",
+                "altRollMessage": "",
+                "style": "bold",
+                "type": "label"
+              },
+              {
+                "key": "lmpcost",
+                "cssClass": "",
+                "role": "0",
+                "permission": "0",
+                "tooltip": "",
+                "label": null,
+                "defaultValue": null,
+                "size": "full-size",
+                "icon": "",
+                "value": "Magic Points",
+                "prefix": "",
+                "suffix": "",
+                "rollMessage": "",
+                "altRollMessage": "",
+                "style": "label",
+                "type": "label"
+              },
+              {
+                "key": "lasave",
+                "cssClass": "",
+                "role": "0",
+                "permission": "0",
+                "tooltip": "",
+                "label": null,
+                "defaultValue": null,
+                "size": "full-size",
+                "icon": "",
+                "value": "Save",
+                "prefix": "",
+                "suffix": "",
+                "rollMessage": "",
+                "altRollMessage": "",
+                "style": "bold",
+                "type": "label"
+              }
+            ],
+            [
+              {
+                "key": "idice",
+                "cssClass": "",
+                "role": "0",
+                "permission": "0",
+                "tooltip": "",
+                "label": "",
+                "defaultValue": "1d6",
+                "size": "small",
+                "charList": "",
+                "maxLength": "",
+                "type": "textField"
+              },
+              {
+                "key": "",
+                "cssClass": "",
+                "role": "0",
+                "permission": "0",
+                "tooltip": "",
+                "label": null,
+                "defaultValue": null,
+                "size": "full-size",
+                "icon": "dice-d10",
+                "value": "",
+                "prefix": "",
+                "suffix": "",
+                "rollMessage": "${[:idice:]}$",
+                "altRollMessage": "",
+                "style": "label",
+                "type": "label"
+              },
+              {
+                "key": "imaterial",
+                "cssClass": "",
+                "role": "0",
+                "permission": "0",
+                "tooltip": "",
+                "label": "",
+                "defaultValue": "",
+                "size": "small",
+                "allowDecimal": false,
+                "minVal": "",
+                "maxVal": "",
+                "allowRelative": false,
+                "showControls": false,
+                "type": "numberField"
+              },
+              {
+                "key": "dplspell",
+                "cssClass": "",
+                "role": "0",
+                "permission": "0",
+                "tooltip": "",
+                "label": "",
+                "defaultValue": "1d6",
+                "size": "m-small",
+                "charList": "",
+                "maxLength": "",
+                "type": "textField"
+              },
+              {
+                "key": "ivalue",
+                "cssClass": "",
+                "role": "0",
+                "permission": "0",
+                "tooltip": "",
+                "label": "",
+                "defaultValue": "1",
+                "size": "small",
+                "allowDecimal": false,
+                "minVal": "",
+                "maxVal": "",
+                "allowRelative": false,
+                "showControls": false,
+                "type": "numberField"
+              },
+              {
+                "key": "spesave",
+                "cssClass": "",
+                "role": "0",
+                "permission": "0",
+                "tooltip": "",
+                "label": "",
+                "defaultValue": "N/A",
+                "size": "m-small",
+                "charList": "",
+                "maxLength": "",
+                "type": "textField"
+              }
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          ],
+          "cols": "6",
+          "rows": "2",
+          "layout": "",
+          "type": "table"
+        }
+      ],
+      "cssClass": null,
+      "role": 0,
+      "permission": 0,
+      "tooltip": null,
+      "flow": null,
+      "align": null,
+      "type": "panel"
+    },
+    "body": {
+      "contents": [
+        {
+          "key": "inotes",
+          "cssClass": "",
+          "role": "0",
+          "permission": "0",
+          "tooltip": "",
+          "label": "Notes",
+          "defaultValue": "",
+          "size": "full-size",
+          "charList": "",
+          "maxLength": "",
+          "type": "textArea",
+          "style": "sheet"
+        }
+      ],
+      "cssClass": null,
+      "role": 0,
+      "permission": 0,
+      "tooltip": null,
+      "flow": null,
+      "align": null,
+      "type": "panel"
+    },
+    "display": {
+      "width": "600",
+      "height": "600",
+      "fix_size": false,
+      "pp_width": "64",
+      "pp_height": "64"
+    },
+    "template": "fvizePYniOW035yS",
+    "props": {
+"iname":"{{iname}}",
+"itype":"{{itype}}",
+"idice":"{{idice}}",
+"imaterial":"{{imaterial}}",
+"ivalue":"{{ivalue}}",
+"inotes":"{{inote}}",
+      "spesave": "{{spesave}}",
+      "dplspell": "{{dplspell}}"
+    },
+    "modifiers": [],
+    "unique": false
+  },
+  "effects": [],
+  "flags": {
+    "custom-system-builder": {
+      "version": "2.0.1"
+    },
+    "core": {
+      "sourceId": "Item.od10NJdMJbr9o7Uc"
+    },
+    "exportSource": {
+      "world": "medieval-journeys",
+      "system": "custom-system-builder",
+      "coreVersion": "10.291",
+      "systemVersion": "2.1.0"
+    }
+  },
+  "_stats": {
+    "systemId": "custom-system-builder",
+    "systemVersion": "2.1.0",
+    "coreVersion": "10.291",
+    "createdTime": 1663780374447,
+    "modifiedTime": 1673204886532,
+    "lastModifiedBy": "4wtwCHe4RhAiNASl"
+  }
+}

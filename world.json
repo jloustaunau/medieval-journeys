@@ -17,6 +17,15 @@
       "path": "packs/weapons.db",
       "system": "custom-system-builder",
       "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Spells",
+      "type": "Item",
+      "name": "spells",
+      "path": "packs/spells.db",
+      "system": "custom-system-builder",
+      "private": false,
       "flags": {},
       "package": "world"
     }
