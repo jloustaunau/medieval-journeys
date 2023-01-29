@@ -26,6 +26,29 @@
       "path": "packs/spells.db",
       "system": "custom-system-builder",
       "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Maps",
+      "type": "Scene",
+      "name": "maps",
+      "path": "packs/maps.db",
+      "system": "custom-system-builder",
+      "private": false,
+      "flags": {},
+      "package": "world",
+      "id": "world.maps",
+      "packageType": "world",
+      "packageName": "medieval-journeys",
+      "index": []
+    },
+    {
+      "label": "People",
+      "type": "Actor",
+      "name": "people",
+      "path": "packs/people.db",
+      "system": "custom-system-builder",
+      "private": false,
       "flags": {},
       "package": "world"
     }
